@@ -1,7 +1,7 @@
 # Personal Utility
 
 -   doc (documents)
-    -   lib: books
+    -   lib (books)
 -   pic (pictures)
 -   aud (audio)
 -   vid (videos)
